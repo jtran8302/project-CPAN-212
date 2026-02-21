@@ -1,12 +1,12 @@
 # Condo Maintenance Work Order System
 
 ## Team Members
-- Quang Hung Tran [n01650970] - slide deck, readme, categories related files
-- Silas Kajinaki [n01703372] - workOrder route js, config js -> this is like basic grounded business rule and setup
-- Jayden Clark [n01510051] - user route js + seed js -> sample data users
-- Denzel Mbaki [n01700856] - user route js + seed js -> sample data users
-- Christian Kiyimba [n01707975] - server js / middleware -> infras 1
-- Vishal [n01737533] - router js / utils -> infras 2
+- Quang Hung Tran [n01650970] - Session A - slide deck, readme, categories related files
+- Silas Kajinaki [n01703372] - Session B - workOrder route js, config js -> this is like basic grounded business rule and setup
+- Jayden Clark [n01510051] - Session B - user route js + seed js -> sample data users
+- Denzel Mbaki [n01700856] - Session B - user route js + seed js -> sample data users
+- Christian Kiyimba [n01707975] - Session A - server js / middleware -> infras 1
+- Vishal [n01737533] - Session B - router js / utils -> infras 2
 
 ## What Is This
 
