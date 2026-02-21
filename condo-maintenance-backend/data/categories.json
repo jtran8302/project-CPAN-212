@@ -1,0 +1,20 @@
+[
+  {
+    "id": "df80d8e4-d85c-48d5-9ec1-84baef7f7abd",
+    "name": "plumbing",
+    "description": "Water and pipe issues",
+    "createdAt": "2026-02-19T22:37:20.196Z"
+  },
+  {
+    "id": "6fab7fe6-2611-44b1-9300-e0eeb050d030",
+    "name": "electrical",
+    "description": "Electrical and lighting",
+    "createdAt": "2026-02-19T22:37:20.196Z"
+  },
+  {
+    "id": "1a84020d-49d0-42f1-ae9d-30d012fa1111",
+    "name": "hvac",
+    "description": "Heating and cooling",
+    "createdAt": "2026-02-19T22:37:20.196Z"
+  }
+]
