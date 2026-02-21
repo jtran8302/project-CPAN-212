@@ -1,6 +1,8 @@
-// returns current time as an iso string
-// used for createdAt and updatedAt timestamps on records
-// iso format looks like: "2026-02-19T03:36:28.040Z"
-export function nowIso() {
-  return new Date().toISOString();
-}
+// utility for reading and writing json files
+// this is how we store data before we set up mongodb in phase 2
+// each json file acts like a database collection
+//
+// will have functions like readJson(path) and writeJson(path, data)
+// services/repositories will use these to load and save data
+//
+// after we switch to mongodb, this file probably wont be needed anymore

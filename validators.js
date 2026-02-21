@@ -1,8 +1,10 @@
-// utility for reading and writing json files
-// this is how we store data before we set up mongodb in phase 2
-// each json file acts like a database collection
+// validation helper functions
+// will be used in route handlers to check if request data is correct
+// before saving to the database
 //
-// will have functions like readJson(path) and writeJson(path, data)
-// services/repositories will use these to load and save data
+// for now just has the basic helpers
+// each team member will add their own validate functions in phase 2
+// e.g. validateCreateWorkOrder(), validateCreateUser(), etc.
 //
-// after we switch to mongodb, this file probably wont be needed anymore
+// the idea is: collect all errors into an array, then return { ok, errors }
+// so the route handler can send back a clear 400 response with what went wrong
